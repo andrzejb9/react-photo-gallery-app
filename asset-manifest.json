@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-photo-gallery-app/static/css/main.c96ab264.css",
+    "main.js": "/react-photo-gallery-app/static/js/main.ad306ea0.js",
+    "index.html": "/react-photo-gallery-app/index.html",
+    "main.c96ab264.css.map": "/react-photo-gallery-app/static/css/main.c96ab264.css.map",
+    "main.ad306ea0.js.map": "/react-photo-gallery-app/static/js/main.ad306ea0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c96ab264.css",
+    "static/js/main.ad306ea0.js"
+  ]
+}
